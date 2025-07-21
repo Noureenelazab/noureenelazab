@@ -1,11 +1,5 @@
-## Hi there 👋
 
-**Noureenelazab/noureenelazab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Hi there! 👋 I'm Noureen Ahmed Bahgat
+# Hi there! 👋 I'm Noureen Ahmed Bahgat
 
 ## 🎓 About Me
 Software Engineering Student passionate about technology and continuous learning.
@@ -16,14 +10,24 @@ Software Engineering Student passionate about technology and continuous learning
 
 ### Programming Languages
 - 🐍 Python
+- 🟨 JavaScript
 
 ### Frontend Development
-- ⚛️ React.js
-- 🌐 Web Development
+- 🌐 HTML
+- 🎨 CSS
+- ⚛️ React.js Framework
+  
 
 ### Operating Systems & Tools
 - 🖥️ Windows
 - 📊 Microsoft Office Suite
+
+### Database
+- 🗄️ SQL
+
+### Design & Management
+- 📱 Product Management
+- 🎨 UI/UX Design
 
 ### Soft Skills
 - 👥 Team Collaboration
@@ -31,16 +35,18 @@ Software Engineering Student passionate about technology and continuous learning
 - 📚 Continuous Learning
 
 ## 🎯 Current Focus
-- 📖 Expanding knowledge in software engineering
-- 💻 Building projects with React and Python
-- 🚀 Improving problem-solving skills
+- 💻 Building projects with React, HTML, CSS, and JavaScript
+- 📚 Focusing to improve software engineering skills 
+- 🚀 Exploring Product Management and UI/UX design
+- 🗄️ Developing database skills with SQL
 
 ## 📜 Certifications & Training
 - 🏆 ITI Certificate Student
-- 🌐 Summer Training in Web Development
+- 🏢 Internship at Chubb (Certificate)
 
 ## 📫 Let's Connect!
 - 📧 Email: noureenel3zab@gmail.com
 - 💼 Always open to collaboration and learning opportunities!
 
+---
 
